@@ -5,12 +5,12 @@
 
 <p align="center"> Status <☕>Finalizado<☕/> HTML | CSS | JavaScript </p>
 
-# Desafio DIO | Jogo da Cobrinha => 🚀 Bootcamp Game 🚀 
-
+# Desafio DIO | Jogo da Cobrinha
+## 🚀 Bootcamp Game 🚀 
 
 Para esse desafio foi proposto a reprodução do famoso "Jogo da Cobrinha" em JavaScript. Minha versão traz nova roupagem e significantes.
 
-### 🚀 Conceito
+### [🚀] Conceito
 
 - O céu galático representa a DIO, cheia de planetas e estrelas para visitar e consumir. O foguetinho representa cada bootcamp que é preciso finalizar para aumentar o conhecimento e experiência em TI.
 
@@ -25,11 +25,11 @@ Para esse desafio foi proposto a reprodução do famoso "Jogo da Cobrinha" em Ja
 
 - Para ler os códigos fonte, basta acessá-los diretamente nesse repositório.     
 
-- Para acessar a page, clique na imagem abaixo com o *scroll* ou com o botão direito do mouse para abrir em nova aba:
+- Para acessar a page e jogar, clique na imagem abaixo com o *scroll* ou com o botão direito do mouse para abrir em nova aba:
 
 
-<a href="#" alt="Bootcamp HTML Web Developer" target="_blank">
-<img src="img/bg-image"/>
+<a href="https://debhvalois.github.io/desafioDioBootcampGame/" alt="Bootcamp HTML Web Developer" target="_blank">
+<img src="./img/bg-image.jpg" width="300px">
 </a>
 
 
@@ -57,7 +57,7 @@ O desafio do game levou 2 dias para execução desde o passo-a-passo da aula Sna
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./img/autora.jpeg" width="100px;" alt="Retrato"/><br>
+        <img src="./img/autora.jpeg" width="100px" alt="Retrato"/><br>
         <sub>
           <b>Debh Valois</b>
         </sub>
