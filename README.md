@@ -1,24 +1,25 @@
 <h1 align="center">
   <img alt="Foguetinho" title="Bootcamp Game" src="./img/imageTarget.png"/>
   BOOTCAMP GAME
+  <img alt="Foguetinho" title="Bootcamp Game" src="./img/imageTarget.png"/>
 </h1>
 
 <p align="center"> Status <☕>Finalizado<☕/> HTML | CSS | JavaScript </p>
 
 # Desafio DIO | Jogo da Cobrinha
-## 🚀 Bootcamp Game 🚀 
 
 Para esse desafio foi proposto a reprodução do famoso "Jogo da Cobrinha" em JavaScript. Minha versão traz nova roupagem e significantes.
 
 ### [🚀] Conceito
 
-- O céu galático representa a DIO, cheia de planetas e estrelas para visitar e consumir. O foguetinho representa cada bootcamp que é preciso finalizar para aumentar o conhecimento e experiência em TI.
+- O céu intergaláctico representa a DIO cheia de planetas e estrelas para explorar. O foguetinho representa cada bootcamp, os quais é preciso consumir e finalizar para aumentar conhecimento e experiência em TI.
 
 ### [🚀] Jogabilidade
 
-- O objetivo é capturar o foguetinho neon - que a cada captura muda de lugar na tela - para aumentar de tamanho da trilha verde.
+- O objetivo é capturar o foguetinho neon - que a cada captura muda de lugar na tela - para aumentar o rastro da trilha verde.
 
-- Para iniciar = utilize as setas de direção "cima" "baixo" "esquerda" "direita" | Para reiniciar = tecla "F5".
+- Para iniciar o jogo basta utilizar as setas de direção "cima" "baixo" "esquerda" "direita" para se movimentar.
+- Para sair = tecla "F5".
 
 
 ## 📁 Acessibilidade:
@@ -27,11 +28,11 @@ Para esse desafio foi proposto a reprodução do famoso "Jogo da Cobrinha" em Ja
 
 - Para acessar a page e jogar, clique na imagem abaixo com o *scroll* ou com o botão direito do mouse para abrir em nova aba:
 
-
-<a href="https://debhvalois.github.io/desafioDioBootcampGame/" alt="Bootcamp HTML Web Developer" target="_blank">
-<img src="./img/bg-image.jpg" width="300px">
-</a>
-
+<td align="center">
+    <a href="https://debhvalois.github.io/desafioDioBootcampGame/" alt="Bootcamp HTML Web Developer" target="_blank" >
+    <img src="./img/bg-image.jpg" width="300px">
+    </a>
+</td>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas:
 
