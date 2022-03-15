@@ -1,0 +1,109 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    color: whitesmoke;
+    font: arial;
+    font-size: 14px  
+}
+.navbar{
+    background-color: black;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: whitesmoke;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+    color: orangered;
+}
+.navbar a{
+    margin-right: 10px;
+}
+.btn-primary {
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0);
+    font-weight: bold;
+    border: none;
+    margin-top: 60px;
+}
+.btn-primary:hover {
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    font-weight: bold;
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+#quemsou{
+    background-color: blueviolet;
+}
+#trilha{
+    background-color: rgb(19, 136, 29);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#game{
+    background-color: #26235A;
+}
+#desafios{
+    background-color: rgb(216, 14, 149);
+}
+img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    text-align: justify;
+}
+.texto-extra{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+.texto-central{
+    color:black;
+    font-size: 15px;
+}
+#bloco{
+    width: 100%;
+    height: 100%;
+    background-color: #F23005;
+		-webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+		-moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+		box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+.col-lg-12{
+    box-sizing: border-box;
+}
+/* ******* MEDIA QUERIES  *******
+/* GAME */
+@media (max-width: 650px) {
+    #stage {
+    width: 90%;
+    height: 90%;
+}  
+}
+/* LOGO DA DIO */
+@media (max-width: 400px) {
+    #resize-logo{
+    width: 30%;
+    height: 30%;
+}  
+}
+/* IMAGENS DE DESAFIOS */
+@media (max-width: 390px) { 
+    #resize{
+    width: 90%;
+    height: 90%;
+}  
+}
+/* ULTIMA ATUALIZAÇÃO EM: 15/03/2022 */
