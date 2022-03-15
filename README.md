@@ -26,13 +26,12 @@ Para esse desafio foi proposto a reprodução do famoso "Jogo da Cobrinha" em Ja
 
 - Para ler os códigos fonte, basta acessá-los diretamente nesse repositório.     
 
-- Para acessar a page e jogar, clique na imagem abaixo com o *scroll* ou com o botão direito do mouse para abrir em nova aba:
+- Para acessar o game, clique na imagem abaixo com o *scroll* ou com o botão direito do mouse para abrir em nova aba:
 
-<td align="center">
-    <a href="https://debhvalois.github.io/desafioDioBootcampGame/" alt="Bootcamp HTML Web Developer" target="_blank" >
-    <img src="./img/bg-image.jpg" width="300px">
-    </a>
-</td>
+<a href="https://debhvalois.github.io/desafioDioBootcampGame/" alt="Bootcamp HTML Web Developer" target="_blank" >
+  <img src="./img/img-readme.jpg" width="400px">
+</a>
+
 
 ## :hammer_and_wrench: Tecnologias Utilizadas:
 
