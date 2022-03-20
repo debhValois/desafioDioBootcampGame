@@ -18,7 +18,7 @@ Para esse desafio foi proposto a reprodução do famoso "Jogo da Cobrinha" em Ja
 
 - O objetivo é capturar o foguetinho neon - que a cada captura muda de lugar na tela - para aumentar o rastro da trilha verde.
 
-- Para iniciar o jogo basta utilizar as setas de direção "cima" "baixo" "esquerda" "direita" para se movimentar.
+- Para iniciar o jogo basta CLICAR NA IMAGEM e utilizar as setas de direção "cima" "baixo" "esquerda" "direita" para se movimentar.
 - Para sair = tecla "F5".
 
 

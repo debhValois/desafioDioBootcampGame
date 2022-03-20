@@ -3,6 +3,23 @@
 
 window.onload = function () {
 
+    /* QDO CHAMAR O JOGO BLOQUEIE ROLAGEM DA TELA PELAS SETAS: "CIMA" "BAIXO" */
+
+    if (document.addEventListener) {
+        document.addEventListener("keydown", blockSrollByKeys, false);
+    } else if (document.attachEvent) {
+        document.attachEvent("onkeydown", blockSrollByKeys);
+    }
+
+    function blockSrollByKeys(evt) {
+        var key = evt.keyCode;
+      
+        if ((key === 38 || key === 40) && !/^(textarea|input|select)$/i.test(evt.target.tagName)) {
+           evt.preventDefault();
+           return false;
+        }
+    }
+
     var stage = document.getElementById('stage');
     var ctx = stage.getContext("2d");
     let imagemBackground = new Image();
